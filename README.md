@@ -3,4 +3,6 @@ This is a progressive web application that helps registered users to log in and 
 
 ## _Team Members_
 
- <img src="Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />  <img src="Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
+ <img src="Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     <img src="Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
+
+[Priyanka Maruthi](https://github.com/Maruthi158) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Tejaswi Avula](https://github.com/tejaavula)
