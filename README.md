@@ -21,3 +21,7 @@ Below are the details for stack:
 * **Frontend Design** :   The Front end design would be with React js
 
 * **Static analysis tools** : The static analysis tools used for this project is Snyk.
+
+## _Link to the wiki pages_
+
+[Project Wiki](https://github.com/Maruthi158/QuoteMaker/wiki/Group-Organization)
