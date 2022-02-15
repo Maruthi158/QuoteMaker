@@ -25,3 +25,10 @@ Below are the details for stack:
 ## _Link to the wiki pages_
 
 [Project Wiki](https://github.com/Maruthi158/QuoteMaker/wiki/Group-Organization)
+
+## Links related to project:
+* Frontend repo link : https://github.com/Maruthi158/FrontendQuotemaker
+
+## Heroku hosted links:
+* Backend : https://quotemakerbackend.herokuapp.com/
+* Frontend: https://quotemakerfrontend.herokuapp.com/
