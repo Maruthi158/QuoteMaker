@@ -6,7 +6,7 @@ const app = express(); // main thing
 dotenv.config;
 
 app.get("/", (req, res) => {
-  res.send("Welcome to Quote Maker");
+  res.send("Welcome to Quote Maker Application");
 });
 
 app.get("/api/quotes", (req, res) => {
