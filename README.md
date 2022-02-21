@@ -1,4 +1,7 @@
 # _QuoteMaker_
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9c87bb5653d942679807d592f0cc6192)](https://app.codacy.com/gh/Maruthi158/QuoteMaker?utm_source=github.com&utm_medium=referral&utm_content=Maruthi158/QuoteMaker&utm_campaign=Badge_Grade_Settings)
+
 This is a progressive web application that helps registered users to log in and check their daily quotes which would be an inspiration to start their day. This application would also have flexibility where users would be able to check 10 quotes per day which would motivate them to complete their work on time, they also have the flexibility to modify the quote which displays on the screen and they can delete the quote if they do not like it.This app would be inspirational to complete things on time.
 
 ## _Team Members_
