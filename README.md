@@ -38,3 +38,10 @@ Below are the details for stack:
 ## Heroku hosted links:
 * Backend : https://quotemakerbackend.herokuapp.com/
 * Frontend: https://quotefront.herokuapp.com/
+
+## How to run tests:
+* We have used Mocha as a testing framework for node.js and we have followed the below steps to run the tests.
+
+     * we created the directory named test with the command : mkdir test
+     * we created the basic test file named "basicTest.js"
+     * we have used the command "npx mocha basicTest.js" to run the tests.
