@@ -4,19 +4,15 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon backend/server.js",
-    "Coverage": "nyc --reporter=lcov --reporter=text npm run test"
+    "start": "nodemon backend/server.js"
   },
   "author": "Priyanka Maruthi",
   "license": "ISC",
   "dependencies": {
-    "c8": "^7.11.0",
+    "concurrently": "^7.0.0",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "nodemon": "^2.0.15"
-  },
-  "devDependencies": {
-    "mocha": "^9.2.1",
-    "nyc": "^15.1.0"
   }
 }
