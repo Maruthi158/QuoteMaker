@@ -1,12 +1,14 @@
 const express = require("express"); // main thing
 const quotes = require("./data/quotes");
 const dotenv = require("dotenv");
+const cors = require("cors");
 
 const app = express(); // main thing
+app.use(cors());
 dotenv.config;
 
 app.get("/", (req, res) => {
-  res.send("Welcome to Quote Maker Application");
+  res.send("API is running");
 });
 
 app.get("/api/quotes", (req, res) => {
