@@ -4,6 +4,9 @@ This is a progressive web application that helps registered users to log in and 
 # _Codacy analysis_
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c1a4b790ced34413b39992a006a20c56)](https://www.codacy.com/gh/Maruthi158/QuoteMaker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Maruthi158/QuoteMaker&amp;utm_campaign=Badge_Grade)
 
+# _SonarCloud_
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=tejaavula076_QuoteMaker-1)
+
 # _Snyk_:
 ![image](https://user-images.githubusercontent.com/77593316/156403624-d45b54c8-7a9e-41bd-986d-6154acb04d85.png)
 
