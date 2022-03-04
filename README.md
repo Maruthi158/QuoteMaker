@@ -8,7 +8,7 @@ This is a progressive web application that helps registered users to log in and 
 [![](https://img.shields.io/github/issues-closed/Maruthi158/QuoteMaker/bug)](https://github.com/Maruthi158/QuoteMaker/issues?q=is%3Aissue+is%3Aclosed+label%3Abug)
 [![](https://img.shields.io/github/issues-closed/Maruthi158/QuoteMaker/helpwanted)](https://github.com/Maruthi158/QuoteMaker/issues?q=is%3Aissue+label%3A%22help+wanted%22+is%3Aclosed)
 [![](https://img.shields.io/github/languages/code-size/Maruthi158/QuoteMaker)](https://github.com/Maruthi158/QuoteMaker)
-![](https://img.shields.io/apm/l/vim-mode)
+
 # _SonarCloud_
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=tejaavula076_QuoteMaker-1)
 
