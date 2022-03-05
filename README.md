@@ -4,9 +4,9 @@ This is a progressive web application that helps registered users to log in and 
 # _Codacy analysis_
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c1a4b790ced34413b39992a006a20c56)](https://www.codacy.com/gh/Maruthi158/QuoteMaker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Maruthi158/QuoteMaker&amp;utm_campaign=Badge_Grade)
 
-[![](https://img.shields.io/github/issues-closed/Maruthi158/QuoteMaker/enhancement)](https://github.com/Maruthi158/QuoteMaker/issues?q=is%3Aissue+is%3Aclosed+label%3Aenhancement)
-[![](https://img.shields.io/github/issues-closed/Maruthi158/QuoteMaker/bug)](https://github.com/Maruthi158/QuoteMaker/issues?q=is%3Aissue+is%3Aclosed+label%3Abug)
-[![](https://img.shields.io/github/issues-closed/Maruthi158/QuoteMaker/helpwanted)](https://github.com/Maruthi158/QuoteMaker/issues?q=is%3Aissue+label%3A%22help+wanted%22+is%3Aclosed)
+[![](https://img.shields.io/github/issues-raw/Maruthi158/QuoteMaker)](https://github.com/Maruthi158/QuoteMaker.git)
+[![](https://img.shields.io/github/issues-closed-raw/Maruthi158/QuoteMaker)](https://github.com/Maruthi158/QuoteMaker/issues?q=is%3Aissue+is%3Aclosed)
+[![](https://img.shields.io/github/milestones/open/Maruthi158/QuoteMaker)](https://github.com/Maruthi158/QuoteMaker/milestones)
 [![](https://img.shields.io/github/languages/code-size/Maruthi158/QuoteMaker)](https://github.com/Maruthi158/QuoteMaker)
 
 # _SonarCloud_
