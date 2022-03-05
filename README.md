@@ -53,7 +53,7 @@ Below are the details for stack:
  
 ## Steps for Compilation/Build/Test/Run:
 
-## _For Backend_:
+### For Backend:
 * We have intialized by using this command : npm init
 * Installed Express : npm i express
 * Installed dotenv : npm i dotenv
@@ -61,16 +61,16 @@ Below are the details for stack:
 * installed nodemon
 * To start the server we have used : npm start (running in localhost : 5000)
 
-## _For Frontend_:
+### For Frontend:
 * Created the react app : npx create-react-app frontend
 * Installed Bootstrap : npm i react-bootstrap
 * Installed React-Redux : npm install react-redux
 * Installed react-router-dom : npm i react-router-dom
 * Installed axios : npm i axios
 * To start the server we have used : npm start (running in localhost : 3000)
-## Build:
+### Build:
 * we have builded this project and deployed it through Heroku
-## How to run tests:
+### How to run tests:
 * We have used Mocha as a testing framework for node.js and we have followed the below steps to run the tests.
 
      * we created the directory named test with the command : mkdir test
