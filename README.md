@@ -42,7 +42,7 @@ Below are the details for stack:
 [Project Wiki](https://github.com/Maruthi158/QuoteMaker/wiki/Group-Organization)
 
 ## Links related to project:
-* Frontend repo link : https://github.com/Maruthi158/frontendquotemake
+* Frontend repo link : https://github.com/tejaavula076/quotefrontend
 
 ## _Documentation Site_:
 *  Documentation site : https://github.com/Maruthi158/QuoteMaker-documentation
