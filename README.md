@@ -49,7 +49,7 @@ Below are the details for stack:
 
 ## Heroku hosted links:
 * Backend : https://quotemakerbackend.herokuapp.com/
-* Frontend: https://quotefront.herokuapp.com/
+* Frontend: https://github.com/tejaavula076/quotefrontend
  
 ## Steps for Compilation/Build/Test/Run:
 
