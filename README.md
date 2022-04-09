@@ -50,6 +50,10 @@ Below are the details for stack:
 ## Heroku hosted links:
 * Backend : https://quotemakerbackend.herokuapp.com/
 * Frontend: https://github.com/tejaavula076/quotefrontend
+
+## Swagger:
+
+* Swagger : https://quotemakerbackend.herokuapp.com/api-docs/
  
 ## Steps for Compilation/Build/Test/Run:
 
