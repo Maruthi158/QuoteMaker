@@ -1,0 +1,202 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "This is the Api for our app",
+    "version": "1.0.0",
+    "title": "Quote Maker",
+    "termsOfService": "http://swagger.io/terms/",
+    "contact": {
+      "email": "teja.avula076@gmail.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "tags": [
+    {
+      "name": "Login",
+      "description": "Everything about your Login",
+      "externalDocs": {
+        "description": "Find out more",
+        "url": "http://swagger.io"
+      }
+    },
+    {
+      "name": "Quote",
+      "description": "Operations about record",
+      "externalDocs": {
+        "description": "Find out more about our store",
+        "url": "http://swagger.io"
+      }
+    }
+  ],
+  "schemes": ["https", "http"],
+  "paths": {
+    "/login": {
+      "post": {
+        "tags": ["Login"],
+        "summary": "Create login",
+        "description": "This can only be done by the logged in user.",
+        "operationId": "createLogin",
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/addQuote": {
+      "post": {
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "tags": ["Quote"],
+        "summary": "Create quote",
+        "description": "This can only be done by the logged in user.",
+        "operationId": "createrQuote",
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user Quote",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/createQuote"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/getQuote": {
+      "get": {
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "tags": ["Quote"],
+        "summary": "Get quote",
+        "description": "This can only be done by the logged in user.",
+        "operationId": "getQuote",
+        "produces": ["application/json"],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/updateQuote": {
+      "put": {
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "tags": ["Quote"],
+        "summary": "Update quote",
+        "description": "This can only be done by the logged in user.",
+        "operationId": "updateQuote",
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user Quote",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/updateQuote"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    }
+  },
+  "securityDefinitions": {
+    "Bearer": {
+      "type": "apiKey",
+      "name": "Authorization",
+      "in": "header"
+    }
+  },
+  "definitions": {
+    "Login": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    },
+    "createQuote": {
+      "type": "object",
+      "properties": {
+        "Quote": {
+          "type": "string"
+        },
+        "Author": {
+          "type": "string"
+        },
+        "Category": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    },
+    "updateQuote": {
+      "type": "object",
+      "properties": {
+        "Quote": {
+          "type": "string"
+        },
+        "Author": {
+          "type": "string"
+        },
+        "Category": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    }
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  }
+}
