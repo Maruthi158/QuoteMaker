@@ -47,6 +47,10 @@ Below are the details for stack:
 ## _Documentation Site_:
 *  Documentation site : https://github.com/Maruthi158/QuoteMaker-documentation
 
+## _Test Cases sample project_:
+*  Repo: https://github.com/Maruthi158/TestingSampleProject
+*  Test coverage report : https://maruthi158.github.io/TestingSampleProject/
+
 ## Heroku hosted links:
 * Backend : https://quotemakerbackend.herokuapp.com/
 * Frontend: https://github.com/tejaavula076/quotefrontend
@@ -81,4 +85,4 @@ Below are the details for stack:
      * we created the basic test file named "basicTest.js"
      * we have used the command "npx mocha basicTest.js" to run the tests.
 
-* We tried implementing test cases for our project but all the testcases were failing due to some reason so we have implemented testcases on sample node with express project and generated the test report : 
+* We tried implementing test cases for our project but all the testcases were failing due to some reason so we have implemented testcases on sample node with express project and generated the test report : https://maruthi158.github.io/TestingSampleProject/
