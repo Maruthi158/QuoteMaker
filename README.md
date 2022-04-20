@@ -86,3 +86,19 @@ Below are the details for stack:
      * we have used the command "npx mocha basicTest.js" to run the tests.
 
 * We tried implementing test cases for our project but all the testcases were failing due to some reason so we have implemented testcases on sample node with express project and generated the test report : https://maruthi158.github.io/TestingSampleProject/
+
+### For Code  Documentation:
+
+We are trying to implementing code documentation by using JSDoc for node.js but we are facing the issues.
+
+### Links related to project:
+
+* Frontend repo link : https://github.com/tejaavula076/quotefrontend
+* Backend heroku link : https://quotemakerbackend.herokuapp.com/
+* Frontend heroku link : https://github.com/tejaavula076/quotefrontend
+* Swagger : https://quotemakerbackend.herokuapp.com/api-docs/
+* Sample code coverage report : https://maruthi158.github.io/TestingSampleProject/
+* Github wiki: https://github.com/Maruthi158/QuoteMaker/wiki/Group-Organization
+* Project Board : https://github.com/Maruthi158/QuoteMaker/projects/3
+
+
