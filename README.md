@@ -10,7 +10,7 @@ This is a progressive web application that helps registered users to log in and 
 [![](https://img.shields.io/github/languages/code-size/Maruthi158/QuoteMaker)](https://github.com/Maruthi158/QuoteMaker)
 
 # _SonarCloud_
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=tejaavula076_QuoteMaker-1)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=tejaavula076_quotefrontend)
 
 # _Snyk_:
 ![image](https://user-images.githubusercontent.com/77593316/156403624-d45b54c8-7a9e-41bd-986d-6154acb04d85.png)
