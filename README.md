@@ -100,5 +100,8 @@ We are trying to implementing code documentation by using JSDoc for node.js but 
 * Sample code coverage report : https://maruthi158.github.io/TestingSampleProject/
 * Github wiki: https://github.com/Maruthi158/QuoteMaker/wiki/Group-Organization
 * Project Board : https://github.com/Maruthi158/QuoteMaker/projects/3
+* Codacy link : https://app.codacy.com/gh/Maruthi158/QuoteMaker/dashboard
+* Snyk : https://app.snyk.io/org/maruthi158?fromGitHubAuth=true
+
 
 
